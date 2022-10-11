@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkers", "Checkers\Checkers.csproj", "{D2F083C9-7812-43EA-8499-75FBE0C835E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckersLogic", "CheckersLogic\CheckersLogic.csproj", "{0B604E94-30D5-406A-ADA2-A171EECB278F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2F083C9-7812-43EA-8499-75FBE0C835E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F083C9-7812-43EA-8499-75FBE0C835E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F083C9-7812-43EA-8499-75FBE0C835E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F083C9-7812-43EA-8499-75FBE0C835E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B604E94-30D5-406A-ADA2-A171EECB278F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B604E94-30D5-406A-ADA2-A171EECB278F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B604E94-30D5-406A-ADA2-A171EECB278F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B604E94-30D5-406A-ADA2-A171EECB278F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {365771CF-33FA-45DD-B7BB-17B87AE650AC}
+	EndGlobalSection
+EndGlobal
